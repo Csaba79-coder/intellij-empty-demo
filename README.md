@@ -1,4 +1,5 @@
-# intellij-empty-demo
-...
+# Project name: intellij-empty-demo
 
-## Hello Webler!
+---
+
+## Hello Webler School!
